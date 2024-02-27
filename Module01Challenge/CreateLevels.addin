@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+
+		<Text>Create Levelsss</Text>
+
+		<Assembly>Module01Challenge.dll</Assembly>
+		<FullClassName>Module01Challenge.Module01Challenge</FullClassName>
+
+		<Description>Show Hello World.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<AddInId>
+			1E066CE5-6736-4051-929E-1825DBA5288E
+		</AddInId>
+
+		<VendorId>Ahmed</VendorId>
+		<VendorDescription>Ahmed Ibrahim</VendorDescription>
+	</AddIn>
+</RevitAddIns>
